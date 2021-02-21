@@ -1,0 +1,1825 @@
+/////////////////////////////////////////////////////////
+//
+//
+//                    MEDIA QUERY
+//
+//
+/////////////////////////////////////////////////////////
+
+$small-device: 375px;
+$medium-device: 420px;
+
+@media only screen and (min-width: 1367px) and (max-width: 1920px) {
+    .container-main{
+
+        .front-cover{
+
+            .first_layer{
+                .name{
+                    width: 20vw;
+                }
+                .change-color{
+                    width: 20vw;
+                    .switch-black{
+                        height: 2.4vh;
+                        .switcher{
+                            height: 2vh;
+                        }
+                    }
+                    .switch-white{
+                        height: 2.4vh;
+                        .switcher{
+                            height: 2vh;
+                        }
+                    }
+                }
+            }
+            .second_layer{
+                .title-container{
+                    .title{
+                        letter-spacing: 2rem;
+                        font-size: 4.3rem;
+                        margin-left: 1vw;
+                    }
+                }
+            }
+            .third_layer{
+                .meter{
+                    width: 70vw;
+                    .acceptproject-text{
+                        margin-left: 5vw;
+                    }
+                }
+                .links{
+                    width: 30vw;
+                    .logo{
+                        margin-left: 1vw;
+                    }
+                }
+            }
+        }
+
+        ////////////////////////////////////////
+        
+        .container-1{
+            .css-tips-title{
+                .problem-container{
+                    .problem-text-container{
+                        height: 20vh;
+                        .problem-title{
+                            height: 10vh;
+                        }
+                        .problem-text{
+                            height: 10vh;
+                        }
+                    }
+                }
+    
+                .problem-img-container{
+                    .img-example{
+                        height: 600px;
+                    }
+                }
+    
+                .problem-statement-container{
+                    height: 10vh;
+                    .problem-statement-inner-container{
+                        height: 10vh;
+                    }
+                }
+    
+                .solution-container{
+                    height: 20vh;
+                    .solution-container-inner{
+                        height: 20vh;
+                        .solution-title-container{
+                            height: 10vh;
+                        }
+                        .solution-statement-container{
+                            height: 10vh;
+                        }
+                    }
+                }
+    
+            }
+    
+
+            .footer{
+                .copyright-container{
+                    width: 70vw;
+                }
+                .footer-logo{
+                    width: 30vw;
+                    .inner-footer-logo{
+                        .footer-logo{
+                            width: 85px;
+                        }
+                    }
+                }
+            }
+
+
+    
+            
+        }
+
+
+
+
+
+
+
+    }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1365px) {
+    .container-main{
+
+        .front-cover{
+
+            .first_layer{
+                .name{
+                    width: 30vw;
+                }
+                .change-color{
+                    width: 25vw;
+                    .switch-black{
+                        height: 2vh;
+                        .switcher{
+                            height: 2vh;
+                        }
+                    }
+                    .switch-white{
+                        height: 2vh;
+                        .switcher{
+                            height: 2vh;
+                        }
+                    }
+                }
+            }
+            .second_layer{
+                .title-container{
+                    .title{
+                        letter-spacing: 2.2rem;
+                        font-size: 4rem;
+                        margin-left: 6vw;
+                    }
+                }
+            }
+            .third_layer{
+                .meter{
+                    width: 65vw;
+                }
+                .links{
+                    width: 30vw;
+                    .logo-container{
+                        .logo{
+                            width: 80px;
+                        }
+                    }
+                }
+            }
+        }
+
+
+        .container-1{
+            .css-tips-title{
+                .problem-container{
+                    .problem-text-container{
+                        height: 16vh;
+                        .problem-title{
+                            height: 8vh;
+                        }
+                        .problem-text{
+                            height: 8vh;
+                        }
+                    }
+                }
+    
+                .problem-img-container{
+                    height: 35vh;
+                    .img-example{
+                        height: 350px;
+                    }
+                }
+    
+                .problem-statement-container{
+                    height: 12vh;
+                    .problem-statement-inner-container{
+                        height: 12vh;
+                    }
+                }
+    
+                .solution-container{
+                    height: 20vh;
+                    .solution-container-inner{
+                        height: 20vh;
+                        .solution-title-container{
+                            height: 10vh;
+                        }
+                        .solution-statement-container{
+                            height: 10vh;
+                        }
+                    }
+                }
+    
+            }
+    
+    
+            
+            .footer{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                .copyright-container{
+                    width: 60vw;
+                }
+                .footer-logo{
+                    width: 25vw;
+                    .inner-footer-logo{
+                        .footer-logo{
+                            width: 85px;
+                        }
+                    }
+                }
+            }
+
+
+
+
+        }
+
+
+    }
+
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) and (orientation: portrait){
+    .container-main{
+
+        .front-cover{
+            .first_layer{
+                .name{
+                    width: 30vw;
+                }
+                .change-color{
+                    width: 25vw;
+                    .switch-black{
+                        height: 2.6vh;
+                        .switcher{
+                            height: 2vh;
+                        }
+                    }
+                    .switch-white{
+                        height: 2.6vh;
+                        .switcher{
+                            height: 2vh;
+                        }
+                    }
+                }
+            }
+            .second_layer{
+                .title-container{
+                    .title{
+                        letter-spacing: 1.5rem;
+                        font-size: 4rem;
+                        margin-left: 2.5vw;
+                    }
+                }
+            }
+            .third_layer{
+                .meter{
+                    width: 65vw;
+                }
+                .links{
+                    width: 30vw;
+                    .logo-container{
+                        .logo{
+                            width: 70px;
+                        }
+                    }
+                }
+            }
+        }
+
+
+        .container-1{
+            .css-tips-title{
+                .problem-container{
+                    height: auto;
+                    .problem-text-container{
+                        height: 20vh;
+                        .problem-title{
+                            height: 10vh;
+                        }
+                        .problem-text{
+                            height: 10vh;
+                        }
+                    }
+                }
+    
+                .problem-img-container{
+                    height: 35vh;
+                    .img-example{
+                        height: 250px;
+                    }
+                }
+    
+                .problem-statement-container{
+                    height: 15vh;
+                    .problem-statement-inner-container{
+                        height: 15vh;
+                    }
+                }
+    
+                .solution-container{
+                    height: 30vh;
+                    .solution-container-inner{
+                        height: 30vh;
+                        .solution-title-container{
+                            height: 10vh;
+                        }
+                        .solution-statement-container{
+                            height: 20vh;
+                        }
+                    }
+                }
+    
+            }
+    
+    
+            .footer{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                .copyright-container{
+                    width: 50vw;
+                    .copyright-text{
+                        margin-left: 3vw;
+                    }
+                }
+                .footer-logo{
+                    width: 25vw;
+                    .inner-footer-logo{
+                        .footer-logo{
+                            width: 85px;
+                        }
+                    }
+                }
+            }
+
+
+
+
+            
+        }
+
+
+    }
+
+
+
+}
+
+@media only screen and (min-width: 421px) and (max-width: 767px) and (orientation: portrait){
+    .container-main{
+
+        .front-cover{
+            .first_layer{
+                .name{
+                    width: 45vw;
+                    span{
+                        font-size: 1.7rem;
+                    }
+                }
+                .change-color{
+                    width: 30vw;
+                    .switch-black{
+                        width: 50px;
+                        height: 3vh;
+                        .switcher{
+                            height: 2.5vh;
+                        }
+                    }
+                    .switch-white{
+                        height: 3vh;
+                        width: 50px;
+                        .switcher{
+                            height: 2.5vh;
+                        }
+                    }
+                }
+            }
+            .second_layer{
+                .title-container{
+                    .title{
+                        letter-spacing: 0rem;
+                        font-size: 3rem;
+                        margin-left: 5.5vw;
+                    }
+                }
+            }
+            .third_layer{
+                .meter{
+                    width: 55vw;
+                }
+                .links{
+                    width: 40vw;
+                    .logo-container{
+                        .logo{
+                            width: 50px;
+                        }
+                    }
+                }
+            }
+        }
+
+        //////////////////////////////////////////
+
+        .container-1{
+            .css-tips-title{
+                .date-container{
+                    .date{
+                        margin-left: 15vw;
+                        font-size: 1.2rem;
+                    }
+                }
+    
+                .problem-container{
+                    .problem-text-container{
+                        height: 25vh;
+                        width: 70vw;
+                        margin-left: 15vw;
+                        .problem-title{
+                            height: 10vh;
+                            width: 70vw;
+                            .problem-title-text{
+                                font-size: 2rem;
+                            }
+                        }
+                        .problem-text{
+                            height: 15vh;
+                            width: 70vw;
+                            .problem{
+                                font-size: .8rem;
+                            }
+                        }
+                    }
+                }
+    
+                .problem-img-container{
+                    height: 30vh;
+                    .img-example{
+                        height: 170px;
+                    }
+                }
+    
+                .problem-statement-container{
+                    height: 15vh;
+                    .problem-statement-inner-container{
+                        height: 15vh;
+                        width: 70vw;
+                        margin-left: 15vw;
+                        .statement{
+                            font-size: .8rem;
+                        }
+                    }
+                }
+    
+                .solution-container{
+                    height: 25vh;
+                    .solution-container-inner{
+                        height: 25vh;
+                        margin-left: 15vw;
+                        .solution-title-container{
+                            height: 10vh;
+                            width: 70vw;
+                            .solution-title-text{
+                                font-size: 2rem;
+                            }
+                        }
+                        .solution-statement-container{
+                            width: 70vw;
+                            .solution-answer-text{
+                                font-size: .8rem;
+                            }
+                        }
+                    }
+                }
+    
+            }
+    
+    
+            .footer{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                .copyright-container{
+                    width: 50vw;
+                    .copyright-text{
+                        margin-left: 1vw;
+                        font-size: .5rem;
+                    }
+                }
+                .footer-logo{
+                    width: 20vw;
+                    .inner-footer-logo{
+                        .footer-logo{
+                            width: 40px;
+                            font-size: 1.4rem;
+                        }
+                    }
+                }
+            }
+
+
+
+
+
+
+            
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+
+}
+
+@media only screen and (max-width: $medium-device) and (orientation: portrait) {
+    .container-main{
+
+        .front-cover{
+            .first_layer{
+                .name{
+                    width: 45vw;
+                    span{
+                    font-size: 1.7rem;
+                    }
+                }
+                .change-color{
+                    width: 30vw;
+                    .switch-black{
+                        width: 50px;
+                        height: 2.5vh;
+                        .switcher{
+                            height: 2.5vh;
+                        }
+                    }
+                    .switch-white{
+                        height: 2.5vh;
+                        width: 50px;
+                        .switcher{
+                            height: 2.5vh;
+                        }
+                    }
+                }
+            }
+            .second_layer{
+                .title-container{
+                    .title{
+                        letter-spacing: 0rem;
+                        font-size: 1.5rem;
+                        letter-spacing: 1rem;
+                        margin-left: 1rem;
+                    }
+                }
+            }
+            .third_layer{
+                .meter{
+                    width: 50vw;
+                    .acceptproject-text{
+                        font-size: 1.1rem;
+                    }
+                }
+                .links{
+                    width: 45vw;
+                    .logo-container{ 
+                        width: 160px;
+                        .logo{
+                            .fa-github{
+                                font-size: 1.8rem;
+                            }
+                            .fa-facebook-f{
+                                font-size: 1.8rem;
+                            }
+                            .fa-telegram-plane{
+                                font-size: 1.8rem;
+                            }    
+                        }
+                    }
+                }
+            }
+        }
+
+
+        .container-1{
+            .css-tips-title{
+                .date-container{
+                    .date{
+                        margin-left: 15vw;
+                        font-size: 1.2rem;
+                    }
+                }
+    
+                .problem-container{
+                    .problem-text-container{
+                        height: 25vh;
+                        width: 70vw;
+                        margin-left: 15vw;
+                        .problem-title{
+                            height: 10vh;
+                            width: 70vw;
+                            .problem-title-text{
+                                font-size: 2rem;
+                            }
+                        }
+                        .problem-text{
+                            height: 15vh;
+                            width: 70vw;
+                            .problem{
+                                font-size: .8rem;
+                            }
+                        }
+                    }
+                }
+    
+                .problem-img-container{
+                    height: 30vh;
+                    .img-example{
+                        height: 170px;
+                    }
+                }
+    
+                .problem-statement-container{
+                    height: 15vh;
+                    .problem-statement-inner-container{
+                        height: 15vh;
+                        width: 70vw;
+                        margin-left: 15vw;
+                        .statement{
+                            font-size: .8rem;
+                        }
+                    }
+                }
+    
+                .solution-container{
+                    height: 25vh;
+                    .solution-container-inner{
+                        height: 25vh;
+                        margin-left: 15vw;
+                        .solution-title-container{
+                            height: 10vh;
+                            width: 70vw;
+                            .solution-title-text{
+                                font-size: 2rem;
+                            }
+                        }
+                        .solution-statement-container{
+                            width: 70vw;
+                            .solution-answer-text{
+                                font-size: .8rem;
+                            }
+                        }
+                    }
+                }
+    
+            }
+
+            .footer{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                .copyright-container{
+                    width: 50vw;
+                    .copyright-text{
+                        margin-left: 1vw;
+                        font-size: .5rem;
+                    }
+                }
+                .footer-logo{
+                    width: 20vw;
+                    .inner-footer-logo{
+                        .footer-logo{
+                            width: 40px;
+                            font-size: 1.4rem;
+                        }
+                    }
+                }
+            }
+
+
+
+
+        }
+
+
+        
+
+
+
+
+
+
+
+    }
+
+
+}
+
+@media only screen and (max-width: $small-device) and (orientation: portrait) {
+    .container-main{
+
+        .front-cover{
+            .first_layer{
+                .name{
+                    width: 45vw;
+                    span{
+                    font-size: 1.5rem;
+                    }
+                }
+                .change-color{
+                    width: 30vw;
+                    .switch-black{
+                        width: 50px;
+                        height: 2.5vh;
+                        .switcher{
+                            height: 2.5vh;
+                        }
+                    }
+                    .switch-white{
+                        height: 2.5vh;
+                        width: 50px;
+                        .switcher{
+                            height: 2.5vh;
+                        }
+                    }
+                }
+            }
+            .second_layer{
+                .title-container{
+                    .title{
+                        letter-spacing: 0rem;
+                        font-size: 1.5rem;
+                        letter-spacing: 1rem;
+                        margin-left: 1rem;
+                    }
+                }
+            }
+            .third_layer{
+                .meter{
+                    width: 55vw;
+                    .acceptproject-text{
+                        font-size: .9rem;
+                    }
+                }
+                .links{
+                    width: 40vw;
+                    .logo-container{ 
+                        width: 120px;
+                        .logo{
+                            .fa-github{
+                                font-size: 1.6rem;
+                            }
+                            .fa-facebook-f{
+                                font-size: 1.6rem;
+                            }
+                            .fa-telegram-plane{
+                                font-size: 1.6rem;
+                            }   
+                        }
+                    }
+                }
+            }
+        }
+
+
+        .container-1{
+            .css-tips-title{
+                .date-container{
+                    .date{
+                        margin-left: 15vw;
+                        font-size: 1.2rem;
+                    }
+                }
+    
+                .problem-container{
+                    .problem-text-container{
+                        height: 25vh;
+                        width: 70vw;
+                        margin-left: 15vw;
+                        .problem-title{
+                            height: 10vh;
+                            width: 70vw;
+                            .problem-title-text{
+                                font-size: 2rem;
+                            }
+                        }
+                        .problem-text{
+                            height: 15vh;
+                            width: 70vw;
+                            .problem{
+                                font-size: .8rem;
+                            }
+                        }
+                    }
+                }
+    
+                .problem-img-container{
+                    height: 30vh;
+                    .img-example{
+                        height: 150px;
+                    }
+                }
+    
+                .problem-statement-container{
+                    height: 15vh;
+                    .problem-statement-inner-container{
+                        height: 15vh;
+                        width: 70vw;
+                        margin-left: 15vw;
+                        .statement{
+                            font-size: .8rem;
+                        }
+                    }
+                }
+    
+                .solution-container{
+                    height: 25vh;
+                    .solution-container-inner{
+                        height: 25vh;
+                        margin-left: 15vw;
+                        .solution-title-container{
+                            height: 10vh;
+                            width: 70vw;
+                            .solution-title-text{
+                                font-size: 2rem;
+                            }
+                        }
+                        .solution-statement-container{
+                            width: 70vw;
+                            .solution-answer-text{
+                                font-size: .8rem;
+                            }
+                        }
+                    }
+                }
+    
+            }
+
+
+            .footer{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                .copyright-container{
+                    width: 50vw;
+                    .copyright-text{
+                        margin-left: 1vw;
+                        font-size: .5rem;
+                    }
+                }
+                .footer-logo{
+                    width: 20vw;
+                    .inner-footer-logo{
+                        .footer-logo{
+                            width: 40px;
+                            font-size: 1.4rem;
+                        }
+                    }
+                }
+            }
+
+
+
+
+        }
+
+
+
+
+    }
+
+
+
+}
+
+
+@media only screen and (min-width: 1367px) and (max-width: 1920px) {
+    .container-main-white{
+
+        .front-cover{
+
+            .first_layer{
+                .name{
+                    width: 20vw;
+                }
+                .change-color{
+                    width: 20vw;
+                    .switch-black{
+                        height: 2.4vh;
+                        .switcher{
+                            height: 2vh;
+                        }
+                    }
+                    .switch-white{
+                        height: 2.4vh;
+                        .switcher{
+                            height: 2vh;
+                        }
+                    }
+                }
+            }
+            .second_layer{
+                .title-container{
+                    .title{
+                        letter-spacing: 2rem;
+                        font-size: 4.3rem;
+                        margin-left: 1vw;
+                    }
+                }
+            }
+            .third_layer{
+                .meter{
+                    width: 70vw;
+                    .acceptproject-text{
+                        margin-left: 5vw;
+                    }
+                }
+                .links{
+                    width: 30vw;
+                    .logo{
+                        margin-left: 1vw;
+                    }
+                }
+            }
+        }
+
+        ////////////////////////////////////////
+        
+        .container-1{
+            .css-tips-title{
+                .problem-container{
+                    .problem-text-container{
+                        height: 20vh;
+                        .problem-title{
+                            height: 10vh;
+                        }
+                        .problem-text{
+                            height: 10vh;
+                        }
+                    }
+                }
+    
+                .problem-img-container{
+                    .img-example{
+                        height: 600px;
+                    }
+                }
+    
+                .problem-statement-container{
+                    height: 10vh;
+                    .problem-statement-inner-container{
+                        height: 10vh;
+                    }
+                }
+    
+                .solution-container{
+                    height: 20vh;
+                    .solution-container-inner{
+                        height: 20vh;
+                        .solution-title-container{
+                            height: 10vh;
+                        }
+                        .solution-statement-container{
+                            height: 10vh;
+                        }
+                    }
+                }
+    
+            }
+    
+
+            .footer{
+                .copyright-container{
+                    width: 70vw;
+                }
+                .footer-logo{
+                    width: 30vw;
+                    .inner-footer-logo{
+                        .footer-logo{
+                            width: 85px;
+                        }
+                    }
+                }
+            }
+
+
+    
+            
+        }
+
+
+
+
+
+
+
+    }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1365px) {
+    .container-main-white{
+
+        .front-cover{
+
+            .first_layer{
+                .name{
+                    width: 30vw;
+                }
+                .change-color{
+                    width: 25vw;
+                    .switch-black{
+                        height: 2vh;
+                        .switcher{
+                            height: 2vh;
+                        }
+                    }
+                    .switch-white{
+                        height: 2vh;
+                        .switcher{
+                            height: 2vh;
+                        }
+                    }
+                }
+            }
+            .second_layer{
+                .title-container{
+                    .title{
+                        letter-spacing: 2.2rem;
+                        font-size: 4rem;
+                        margin-left: 6vw;
+                    }
+                }
+            }
+            .third_layer{
+                .meter{
+                    width: 65vw;
+                }
+                .links{
+                    width: 30vw;
+                    .logo-container{
+                        .logo{
+                            width: 80px;
+                        }
+                    }
+                }
+            }
+        }
+
+
+        .container-1{
+            .css-tips-title{
+                .problem-container{
+                    .problem-text-container{
+                        height: 16vh;
+                        .problem-title{
+                            height: 8vh;
+                        }
+                        .problem-text{
+                            height: 8vh;
+                        }
+                    }
+                }
+    
+                .problem-img-container{
+                    height: 35vh;
+                    .img-example{
+                        height: 350px;
+                    }
+                }
+    
+                .problem-statement-container{
+                    height: 12vh;
+                    .problem-statement-inner-container{
+                        height: 12vh;
+                    }
+                }
+    
+                .solution-container{
+                    height: 20vh;
+                    .solution-container-inner{
+                        height: 20vh;
+                        .solution-title-container{
+                            height: 10vh;
+                        }
+                        .solution-statement-container{
+                            height: 10vh;
+                        }
+                    }
+                }
+    
+            }
+    
+    
+            
+            .footer{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                .copyright-container{
+                    width: 60vw;
+                }
+                .footer-logo{
+                    width: 25vw;
+                    .inner-footer-logo{
+                        .footer-logo{
+                            width: 85px;
+                        }
+                    }
+                }
+            }
+
+
+
+
+        }
+
+
+    }
+
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) and (orientation: portrait){
+    .container-main-white{
+
+        .front-cover{
+            .first_layer{
+                .name{
+                    width: 30vw;
+                }
+                .change-color{
+                    width: 25vw;
+                    .switch-black{
+                        height: 2.6vh;
+                        .switcher{
+                            height: 2vh;
+                        }
+                    }
+                    .switch-white{
+                        height: 2.6vh;
+                        .switcher{
+                            height: 2vh;
+                        }
+                    }
+                }
+            }
+            .second_layer{
+                .title-container{
+                    .title{
+                        letter-spacing: 1.5rem;
+                        font-size: 4rem;
+                        margin-left: 2.5vw;
+                    }
+                }
+            }
+            .third_layer{
+                .meter{
+                    width: 65vw;
+                }
+                .links{
+                    width: 30vw;
+                    .logo-container{
+                        .logo{
+                            width: 70px;
+                        }
+                    }
+                }
+            }
+        }
+
+
+        .container-1{
+            .css-tips-title{
+                .problem-container{
+                    height: auto;
+                    .problem-text-container{
+                        height: 20vh;
+                        .problem-title{
+                            height: 10vh;
+                        }
+                        .problem-text{
+                            height: 10vh;
+                        }
+                    }
+                }
+    
+                .problem-img-container{
+                    height: 35vh;
+                    .img-example{
+                        height: 250px;
+                    }
+                }
+    
+                .problem-statement-container{
+                    height: 15vh;
+                    .problem-statement-inner-container{
+                        height: 15vh;
+                    }
+                }
+    
+                .solution-container{
+                    height: 30vh;
+                    .solution-container-inner{
+                        height: 30vh;
+                        .solution-title-container{
+                            height: 10vh;
+                        }
+                        .solution-statement-container{
+                            height: 20vh;
+                        }
+                    }
+                }
+    
+            }
+    
+    
+            .footer{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                .copyright-container{
+                    width: 50vw;
+                    .copyright-text{
+                        margin-left: 3vw;
+                    }
+                }
+                .footer-logo{
+                    width: 25vw;
+                    .inner-footer-logo{
+                        .footer-logo{
+                            width: 85px;
+                        }
+                    }
+                }
+            }
+
+
+
+
+            
+        }
+
+
+    }
+
+
+
+}
+
+@media only screen and (min-width: 421px) and (max-width: 767px) and (orientation: portrait){
+    .container-main-white{
+
+        .front-cover{
+            .first_layer{
+                .name{
+                    width: 45vw;
+                    span{
+                        font-size: 1.7rem;
+                    }
+                }
+                .change-color{
+                    width: 30vw;
+                    .switch-black{
+                        width: 50px;
+                        height: 3vh;
+                        .switcher{
+                            height: 2.5vh;
+                        }
+                    }
+                    .switch-white{
+                        height: 3vh;
+                        width: 50px;
+                        .switcher{
+                            height: 2.5vh;
+                        }
+                    }
+                }
+            }
+            .second_layer{
+                .title-container{
+                    .title{
+                        letter-spacing: 0rem;
+                        font-size: 3rem;
+                        margin-left: 5.5vw;
+                    }
+                }
+            }
+            .third_layer{
+                .meter{
+                    width: 55vw;
+                }
+                .links{
+                    width: 40vw;
+                    .logo-container{
+                        .logo{
+                            width: 50px;
+                        }
+                    }
+                }
+            }
+        }
+
+        //////////////////////////////////////////
+
+        .container-1{
+            .css-tips-title{
+                .date-container{
+                    .date{
+                        margin-left: 15vw;
+                        font-size: 1.2rem;
+                    }
+                }
+    
+                .problem-container{
+                    .problem-text-container{
+                        height: 25vh;
+                        width: 70vw;
+                        margin-left: 15vw;
+                        .problem-title{
+                            height: 10vh;
+                            width: 70vw;
+                            .problem-title-text{
+                                font-size: 2rem;
+                            }
+                        }
+                        .problem-text{
+                            height: 15vh;
+                            width: 70vw;
+                            .problem{
+                                font-size: .8rem;
+                            }
+                        }
+                    }
+                }
+    
+                .problem-img-container{
+                    height: 30vh;
+                    .img-example{
+                        height: 170px;
+                    }
+                }
+    
+                .problem-statement-container{
+                    height: 15vh;
+                    .problem-statement-inner-container{
+                        height: 15vh;
+                        width: 70vw;
+                        margin-left: 15vw;
+                        .statement{
+                            font-size: .8rem;
+                        }
+                    }
+                }
+    
+                .solution-container{
+                    height: 25vh;
+                    .solution-container-inner{
+                        height: 25vh;
+                        margin-left: 15vw;
+                        .solution-title-container{
+                            height: 10vh;
+                            width: 70vw;
+                            .solution-title-text{
+                                font-size: 2rem;
+                            }
+                        }
+                        .solution-statement-container{
+                            width: 70vw;
+                            .solution-answer-text{
+                                font-size: .8rem;
+                            }
+                        }
+                    }
+                }
+    
+            }
+    
+    
+            .footer{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                .copyright-container{
+                    width: 50vw;
+                    .copyright-text{
+                        margin-left: 1vw;
+                        font-size: .5rem;
+                    }
+                }
+                .footer-logo{
+                    width: 20vw;
+                    .inner-footer-logo{
+                        .footer-logo{
+                            width: 40px;
+                            font-size: 1.4rem;
+                        }
+                    }
+                }
+            }
+
+
+
+
+
+
+            
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+
+}
+
+@media only screen and (max-width: $medium-device) and (orientation: portrait) {
+    .container-main-white{
+
+        .front-cover{
+            .first_layer{
+                .name{
+                    width: 45vw;
+                    span{
+                    font-size: 1.7rem;
+                    }
+                }
+                .change-color{
+                    width: 30vw;
+                    .switch-black{
+                        width: 50px;
+                        height: 2.5vh;
+                        .switcher{
+                            height: 2.5vh;
+                        }
+                    }
+                    .switch-white{
+                        height: 2.5vh;
+                        width: 50px;
+                        .switcher{
+                            height: 2.5vh;
+                        }
+                    }
+                }
+            }
+            .second_layer{
+                .title-container{
+                    .title{
+                        letter-spacing: 0rem;
+                        font-size: 1.5rem;
+                        letter-spacing: 1rem;
+                        margin-left: 1rem;
+                    }
+                }
+            }
+            .third_layer{
+                .meter{
+                    width: 50vw;
+                    .acceptproject-text{
+                        font-size: 1.1rem;
+                    }
+                }
+                .links{
+                    width: 45vw;
+                    .logo-container{ 
+                        width: 160px;
+                        .logo{
+                            .fa-github{
+                                font-size: 1.8rem;
+                            }
+                            .fa-facebook-f{
+                                font-size: 1.8rem;
+                            }
+                            .fa-telegram-plane{
+                                font-size: 1.8rem;
+                            }    
+                        }
+                    }
+                }
+            }
+        }
+
+
+        .container-1{
+            .css-tips-title{
+                .date-container{
+                    .date{
+                        margin-left: 15vw;
+                        font-size: 1.2rem;
+                    }
+                }
+    
+                .problem-container{
+                    .problem-text-container{
+                        height: 25vh;
+                        width: 70vw;
+                        margin-left: 15vw;
+                        .problem-title{
+                            height: 10vh;
+                            width: 70vw;
+                            .problem-title-text{
+                                font-size: 2rem;
+                            }
+                        }
+                        .problem-text{
+                            height: 15vh;
+                            width: 70vw;
+                            .problem{
+                                font-size: .8rem;
+                            }
+                        }
+                    }
+                }
+    
+                .problem-img-container{
+                    height: 30vh;
+                    .img-example{
+                        height: 170px;
+                    }
+                }
+    
+                .problem-statement-container{
+                    height: 15vh;
+                    .problem-statement-inner-container{
+                        height: 15vh;
+                        width: 70vw;
+                        margin-left: 15vw;
+                        .statement{
+                            font-size: .8rem;
+                        }
+                    }
+                }
+    
+                .solution-container{
+                    height: 25vh;
+                    .solution-container-inner{
+                        height: 25vh;
+                        margin-left: 15vw;
+                        .solution-title-container{
+                            height: 10vh;
+                            width: 70vw;
+                            .solution-title-text{
+                                font-size: 2rem;
+                            }
+                        }
+                        .solution-statement-container{
+                            width: 70vw;
+                            .solution-answer-text{
+                                font-size: .8rem;
+                            }
+                        }
+                    }
+                }
+    
+            }
+
+            .footer{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                .copyright-container{
+                    width: 50vw;
+                    .copyright-text{
+                        margin-left: 1vw;
+                        font-size: .5rem;
+                    }
+                }
+                .footer-logo{
+                    width: 20vw;
+                    .inner-footer-logo{
+                        .footer-logo{
+                            width: 40px;
+                            font-size: 1.4rem;
+                        }
+                    }
+                }
+            }
+
+
+
+
+        }
+
+
+        
+
+
+
+
+
+
+
+    }
+
+
+}
+
+@media only screen and (max-width: $small-device) and (orientation: portrait) {
+    .container-main-white{
+
+        .front-cover{
+            .first_layer{
+                .name{
+                    width: 45vw;
+                    span{
+                    font-size: 1.5rem;
+                    }
+                }
+                .change-color{
+                    width: 30vw;
+                    .switch-black{
+                        width: 50px;
+                        height: 2.5vh;
+                        .switcher{
+                            height: 2.5vh;
+                        }
+                    }
+                    .switch-white{
+                        height: 2.5vh;
+                        width: 50px;
+                        .switcher{
+                            height: 2.5vh;
+                        }
+                    }
+                }
+            }
+            .second_layer{
+                .title-container{
+                    .title{
+                        letter-spacing: 0rem;
+                        font-size: 1.5rem;
+                        letter-spacing: 1rem;
+                        margin-left: 1rem;
+                    }
+                }
+            }
+            .third_layer{
+                .meter{
+                    width: 55vw;
+                    .acceptproject-text{
+                        font-size: .9rem;
+                    }
+                }
+                .links{
+                    width: 40vw;
+                    .logo-container{ 
+                        width: 120px;
+                        .logo{
+                            .fa-github{
+                                font-size: 1.6rem;
+                            }
+                            .fa-facebook-f{
+                                font-size: 1.6rem;
+                            }
+                            .fa-telegram-plane{
+                                font-size: 1.6rem;
+                            }   
+                        }
+                    }
+                }
+            }
+        }
+
+
+        .container-1{
+            .css-tips-title{
+                .date-container{
+                    .date{
+                        margin-left: 15vw;
+                        font-size: 1.2rem;
+                    }
+                }
+    
+                .problem-container{
+                    .problem-text-container{
+                        height: 25vh;
+                        width: 70vw;
+                        margin-left: 15vw;
+                        .problem-title{
+                            height: 10vh;
+                            width: 70vw;
+                            .problem-title-text{
+                                font-size: 2rem;
+                            }
+                        }
+                        .problem-text{
+                            height: 15vh;
+                            width: 70vw;
+                            .problem{
+                                font-size: .8rem;
+                            }
+                        }
+                    }
+                }
+    
+                .problem-img-container{
+                    height: 30vh;
+                    .img-example{
+                        height: 150px;
+                    }
+                }
+    
+                .problem-statement-container{
+                    height: 15vh;
+                    .problem-statement-inner-container{
+                        height: 15vh;
+                        width: 70vw;
+                        margin-left: 15vw;
+                        .statement{
+                            font-size: .8rem;
+                        }
+                    }
+                }
+    
+                .solution-container{
+                    height: 25vh;
+                    .solution-container-inner{
+                        height: 25vh;
+                        margin-left: 15vw;
+                        .solution-title-container{
+                            height: 10vh;
+                            width: 70vw;
+                            .solution-title-text{
+                                font-size: 2rem;
+                            }
+                        }
+                        .solution-statement-container{
+                            width: 70vw;
+                            .solution-answer-text{
+                                font-size: .8rem;
+                            }
+                        }
+                    }
+                }
+    
+            }
+
+
+            .footer{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                .copyright-container{
+                    width: 50vw;
+                    .copyright-text{
+                        margin-left: 1vw;
+                        font-size: .5rem;
+                    }
+                }
+                .footer-logo{
+                    width: 20vw;
+                    .inner-footer-logo{
+                        .footer-logo{
+                            width: 40px;
+                            font-size: 1.4rem;
+                        }
+                    }
+                }
+            }
+
+
+
+
+        }
+
+
+
+
+    }
+
+
+
+}

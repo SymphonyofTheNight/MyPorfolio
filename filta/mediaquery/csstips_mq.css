@@ -1,0 +1,1320 @@
+@media only screen and (min-width: 1367px) and (max-width: 1920px) {
+  .container-main .front-cover .first_layer .name {
+    width: 20vw;
+  }
+  .container-main .front-cover .first_layer .change-color {
+    width: 20vw;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-black {
+    height: 2.4vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-black .switcher {
+    height: 2vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-white {
+    height: 2.4vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-white .switcher {
+    height: 2vh;
+  }
+  .container-main .front-cover .second_layer .title-container .title {
+    letter-spacing: 2rem;
+    font-size: 4.3rem;
+    margin-left: 1vw;
+  }
+  .container-main .front-cover .third_layer .meter {
+    width: 70vw;
+  }
+  .container-main .front-cover .third_layer .meter .acceptproject-text {
+    margin-left: 5vw;
+  }
+  .container-main .front-cover .third_layer .links {
+    width: 30vw;
+  }
+  .container-main .front-cover .third_layer .links .logo {
+    margin-left: 1vw;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container {
+    height: 20vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-title {
+    height: 10vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-text {
+    height: 10vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-img-container .img-example {
+    height: 600px;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container {
+    height: 10vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container {
+    height: 10vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container {
+    height: 20vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner {
+    height: 20vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container {
+    height: 10vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container {
+    height: 10vh;
+  }
+  .container-main .container-1 .footer .copyright-container {
+    width: 70vw;
+  }
+  .container-main .container-1 .footer .footer-logo {
+    width: 30vw;
+  }
+  .container-main .container-1 .footer .footer-logo .inner-footer-logo .footer-logo {
+    width: 85px;
+  }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1365px) {
+  .container-main .front-cover .first_layer .name {
+    width: 30vw;
+  }
+  .container-main .front-cover .first_layer .change-color {
+    width: 25vw;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-black {
+    height: 2vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-black .switcher {
+    height: 2vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-white {
+    height: 2vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-white .switcher {
+    height: 2vh;
+  }
+  .container-main .front-cover .second_layer .title-container .title {
+    letter-spacing: 2.2rem;
+    font-size: 4rem;
+    margin-left: 6vw;
+  }
+  .container-main .front-cover .third_layer .meter {
+    width: 65vw;
+  }
+  .container-main .front-cover .third_layer .links {
+    width: 30vw;
+  }
+  .container-main .front-cover .third_layer .links .logo-container .logo {
+    width: 80px;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container {
+    height: 16vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-title {
+    height: 8vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-text {
+    height: 8vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-img-container {
+    height: 35vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-img-container .img-example {
+    height: 350px;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container {
+    height: 12vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container {
+    height: 12vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container {
+    height: 20vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner {
+    height: 20vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container {
+    height: 10vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container {
+    height: 10vh;
+  }
+  .container-main .container-1 .footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .container-main .container-1 .footer .copyright-container {
+    width: 60vw;
+  }
+  .container-main .container-1 .footer .footer-logo {
+    width: 25vw;
+  }
+  .container-main .container-1 .footer .footer-logo .inner-footer-logo .footer-logo {
+    width: 85px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) and (orientation: portrait) {
+  .container-main .front-cover .first_layer .name {
+    width: 30vw;
+  }
+  .container-main .front-cover .first_layer .change-color {
+    width: 25vw;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-black {
+    height: 2.6vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-black .switcher {
+    height: 2vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-white {
+    height: 2.6vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-white .switcher {
+    height: 2vh;
+  }
+  .container-main .front-cover .second_layer .title-container .title {
+    letter-spacing: 1.5rem;
+    font-size: 4rem;
+    margin-left: 2.5vw;
+  }
+  .container-main .front-cover .third_layer .meter {
+    width: 65vw;
+  }
+  .container-main .front-cover .third_layer .links {
+    width: 30vw;
+  }
+  .container-main .front-cover .third_layer .links .logo-container .logo {
+    width: 70px;
+  }
+  .container-main .container-1 .css-tips-title .problem-container {
+    height: auto;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container {
+    height: 20vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-title {
+    height: 10vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-text {
+    height: 10vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-img-container {
+    height: 35vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-img-container .img-example {
+    height: 250px;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container {
+    height: 15vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container {
+    height: 15vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container {
+    height: 30vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner {
+    height: 30vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container {
+    height: 10vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container {
+    height: 20vh;
+  }
+  .container-main .container-1 .footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .container-main .container-1 .footer .copyright-container {
+    width: 50vw;
+  }
+  .container-main .container-1 .footer .copyright-container .copyright-text {
+    margin-left: 3vw;
+  }
+  .container-main .container-1 .footer .footer-logo {
+    width: 25vw;
+  }
+  .container-main .container-1 .footer .footer-logo .inner-footer-logo .footer-logo {
+    width: 85px;
+  }
+}
+
+@media only screen and (min-width: 421px) and (max-width: 767px) and (orientation: portrait) {
+  .container-main .front-cover .first_layer .name {
+    width: 45vw;
+  }
+  .container-main .front-cover .first_layer .name span {
+    font-size: 1.7rem;
+  }
+  .container-main .front-cover .first_layer .change-color {
+    width: 30vw;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-black {
+    width: 50px;
+    height: 3vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-black .switcher {
+    height: 2.5vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-white {
+    height: 3vh;
+    width: 50px;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-white .switcher {
+    height: 2.5vh;
+  }
+  .container-main .front-cover .second_layer .title-container .title {
+    letter-spacing: 0rem;
+    font-size: 3rem;
+    margin-left: 5.5vw;
+  }
+  .container-main .front-cover .third_layer .meter {
+    width: 55vw;
+  }
+  .container-main .front-cover .third_layer .links {
+    width: 40vw;
+  }
+  .container-main .front-cover .third_layer .links .logo-container .logo {
+    width: 50px;
+  }
+  .container-main .container-1 .css-tips-title .date-container .date {
+    margin-left: 15vw;
+    font-size: 1.2rem;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container {
+    height: 25vh;
+    width: 70vw;
+    margin-left: 15vw;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-title {
+    height: 10vh;
+    width: 70vw;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-title .problem-title-text {
+    font-size: 2rem;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-text {
+    height: 15vh;
+    width: 70vw;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-text .problem {
+    font-size: .8rem;
+  }
+  .container-main .container-1 .css-tips-title .problem-img-container {
+    height: 30vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-img-container .img-example {
+    height: 170px;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container {
+    height: 15vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container {
+    height: 15vh;
+    width: 70vw;
+    margin-left: 15vw;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container .statement {
+    font-size: .8rem;
+  }
+  .container-main .container-1 .css-tips-title .solution-container {
+    height: 25vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner {
+    height: 25vh;
+    margin-left: 15vw;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container {
+    height: 10vh;
+    width: 70vw;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container .solution-title-text {
+    font-size: 2rem;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container {
+    width: 70vw;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container .solution-answer-text {
+    font-size: .8rem;
+  }
+  .container-main .container-1 .footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .container-main .container-1 .footer .copyright-container {
+    width: 50vw;
+  }
+  .container-main .container-1 .footer .copyright-container .copyright-text {
+    margin-left: 1vw;
+    font-size: .5rem;
+  }
+  .container-main .container-1 .footer .footer-logo {
+    width: 20vw;
+  }
+  .container-main .container-1 .footer .footer-logo .inner-footer-logo .footer-logo {
+    width: 40px;
+    font-size: 1.4rem;
+  }
+}
+
+@media only screen and (max-width: 420px) and (orientation: portrait) {
+  .container-main .front-cover .first_layer .name {
+    width: 45vw;
+  }
+  .container-main .front-cover .first_layer .name span {
+    font-size: 1.7rem;
+  }
+  .container-main .front-cover .first_layer .change-color {
+    width: 30vw;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-black {
+    width: 50px;
+    height: 2.5vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-black .switcher {
+    height: 2.5vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-white {
+    height: 2.5vh;
+    width: 50px;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-white .switcher {
+    height: 2.5vh;
+  }
+  .container-main .front-cover .second_layer .title-container .title {
+    letter-spacing: 0rem;
+    font-size: 1.5rem;
+    letter-spacing: 1rem;
+    margin-left: 1rem;
+  }
+  .container-main .front-cover .third_layer .meter {
+    width: 50vw;
+  }
+  .container-main .front-cover .third_layer .meter .acceptproject-text {
+    font-size: 1.1rem;
+  }
+  .container-main .front-cover .third_layer .links {
+    width: 45vw;
+  }
+  .container-main .front-cover .third_layer .links .logo-container {
+    width: 160px;
+  }
+  .container-main .front-cover .third_layer .links .logo-container .logo .fa-github {
+    font-size: 1.8rem;
+  }
+  .container-main .front-cover .third_layer .links .logo-container .logo .fa-facebook-f {
+    font-size: 1.8rem;
+  }
+  .container-main .front-cover .third_layer .links .logo-container .logo .fa-telegram-plane {
+    font-size: 1.8rem;
+  }
+  .container-main .container-1 .css-tips-title .date-container .date {
+    margin-left: 15vw;
+    font-size: 1.2rem;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container {
+    height: 25vh;
+    width: 70vw;
+    margin-left: 15vw;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-title {
+    height: 10vh;
+    width: 70vw;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-title .problem-title-text {
+    font-size: 2rem;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-text {
+    height: 15vh;
+    width: 70vw;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-text .problem {
+    font-size: .8rem;
+  }
+  .container-main .container-1 .css-tips-title .problem-img-container {
+    height: 30vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-img-container .img-example {
+    height: 170px;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container {
+    height: 15vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container {
+    height: 15vh;
+    width: 70vw;
+    margin-left: 15vw;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container .statement {
+    font-size: .8rem;
+  }
+  .container-main .container-1 .css-tips-title .solution-container {
+    height: 25vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner {
+    height: 25vh;
+    margin-left: 15vw;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container {
+    height: 10vh;
+    width: 70vw;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container .solution-title-text {
+    font-size: 2rem;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container {
+    width: 70vw;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container .solution-answer-text {
+    font-size: .8rem;
+  }
+  .container-main .container-1 .footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .container-main .container-1 .footer .copyright-container {
+    width: 50vw;
+  }
+  .container-main .container-1 .footer .copyright-container .copyright-text {
+    margin-left: 1vw;
+    font-size: .5rem;
+  }
+  .container-main .container-1 .footer .footer-logo {
+    width: 20vw;
+  }
+  .container-main .container-1 .footer .footer-logo .inner-footer-logo .footer-logo {
+    width: 40px;
+    font-size: 1.4rem;
+  }
+}
+
+@media only screen and (max-width: 375px) and (orientation: portrait) {
+  .container-main .front-cover .first_layer .name {
+    width: 45vw;
+  }
+  .container-main .front-cover .first_layer .name span {
+    font-size: 1.5rem;
+  }
+  .container-main .front-cover .first_layer .change-color {
+    width: 30vw;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-black {
+    width: 50px;
+    height: 2.5vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-black .switcher {
+    height: 2.5vh;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-white {
+    height: 2.5vh;
+    width: 50px;
+  }
+  .container-main .front-cover .first_layer .change-color .switch-white .switcher {
+    height: 2.5vh;
+  }
+  .container-main .front-cover .second_layer .title-container .title {
+    letter-spacing: 0rem;
+    font-size: 1.5rem;
+    letter-spacing: 1rem;
+    margin-left: 1rem;
+  }
+  .container-main .front-cover .third_layer .meter {
+    width: 55vw;
+  }
+  .container-main .front-cover .third_layer .meter .acceptproject-text {
+    font-size: .9rem;
+  }
+  .container-main .front-cover .third_layer .links {
+    width: 40vw;
+  }
+  .container-main .front-cover .third_layer .links .logo-container {
+    width: 120px;
+  }
+  .container-main .front-cover .third_layer .links .logo-container .logo .fa-github {
+    font-size: 1.6rem;
+  }
+  .container-main .front-cover .third_layer .links .logo-container .logo .fa-facebook-f {
+    font-size: 1.6rem;
+  }
+  .container-main .front-cover .third_layer .links .logo-container .logo .fa-telegram-plane {
+    font-size: 1.6rem;
+  }
+  .container-main .container-1 .css-tips-title .date-container .date {
+    margin-left: 15vw;
+    font-size: 1.2rem;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container {
+    height: 25vh;
+    width: 70vw;
+    margin-left: 15vw;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-title {
+    height: 10vh;
+    width: 70vw;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-title .problem-title-text {
+    font-size: 2rem;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-text {
+    height: 15vh;
+    width: 70vw;
+  }
+  .container-main .container-1 .css-tips-title .problem-container .problem-text-container .problem-text .problem {
+    font-size: .8rem;
+  }
+  .container-main .container-1 .css-tips-title .problem-img-container {
+    height: 30vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-img-container .img-example {
+    height: 150px;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container {
+    height: 15vh;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container {
+    height: 15vh;
+    width: 70vw;
+    margin-left: 15vw;
+  }
+  .container-main .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container .statement {
+    font-size: .8rem;
+  }
+  .container-main .container-1 .css-tips-title .solution-container {
+    height: 25vh;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner {
+    height: 25vh;
+    margin-left: 15vw;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container {
+    height: 10vh;
+    width: 70vw;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container .solution-title-text {
+    font-size: 2rem;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container {
+    width: 70vw;
+  }
+  .container-main .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container .solution-answer-text {
+    font-size: .8rem;
+  }
+  .container-main .container-1 .footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .container-main .container-1 .footer .copyright-container {
+    width: 50vw;
+  }
+  .container-main .container-1 .footer .copyright-container .copyright-text {
+    margin-left: 1vw;
+    font-size: .5rem;
+  }
+  .container-main .container-1 .footer .footer-logo {
+    width: 20vw;
+  }
+  .container-main .container-1 .footer .footer-logo .inner-footer-logo .footer-logo {
+    width: 40px;
+    font-size: 1.4rem;
+  }
+}
+
+@media only screen and (min-width: 1367px) and (max-width: 1920px) {
+  .container-main-white .front-cover .first_layer .name {
+    width: 20vw;
+  }
+  .container-main-white .front-cover .first_layer .change-color {
+    width: 20vw;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-black {
+    height: 2.4vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-black .switcher {
+    height: 2vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-white {
+    height: 2.4vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-white .switcher {
+    height: 2vh;
+  }
+  .container-main-white .front-cover .second_layer .title-container .title {
+    letter-spacing: 2rem;
+    font-size: 4.3rem;
+    margin-left: 1vw;
+  }
+  .container-main-white .front-cover .third_layer .meter {
+    width: 70vw;
+  }
+  .container-main-white .front-cover .third_layer .meter .acceptproject-text {
+    margin-left: 5vw;
+  }
+  .container-main-white .front-cover .third_layer .links {
+    width: 30vw;
+  }
+  .container-main-white .front-cover .third_layer .links .logo {
+    margin-left: 1vw;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container {
+    height: 20vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-title {
+    height: 10vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-text {
+    height: 10vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-img-container .img-example {
+    height: 600px;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container {
+    height: 10vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container {
+    height: 10vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container {
+    height: 20vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner {
+    height: 20vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container {
+    height: 10vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container {
+    height: 10vh;
+  }
+  .container-main-white .container-1 .footer .copyright-container {
+    width: 70vw;
+  }
+  .container-main-white .container-1 .footer .footer-logo {
+    width: 30vw;
+  }
+  .container-main-white .container-1 .footer .footer-logo .inner-footer-logo .footer-logo {
+    width: 85px;
+  }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1365px) {
+  .container-main-white .front-cover .first_layer .name {
+    width: 30vw;
+  }
+  .container-main-white .front-cover .first_layer .change-color {
+    width: 25vw;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-black {
+    height: 2vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-black .switcher {
+    height: 2vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-white {
+    height: 2vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-white .switcher {
+    height: 2vh;
+  }
+  .container-main-white .front-cover .second_layer .title-container .title {
+    letter-spacing: 2.2rem;
+    font-size: 4rem;
+    margin-left: 6vw;
+  }
+  .container-main-white .front-cover .third_layer .meter {
+    width: 65vw;
+  }
+  .container-main-white .front-cover .third_layer .links {
+    width: 30vw;
+  }
+  .container-main-white .front-cover .third_layer .links .logo-container .logo {
+    width: 80px;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container {
+    height: 16vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-title {
+    height: 8vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-text {
+    height: 8vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-img-container {
+    height: 35vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-img-container .img-example {
+    height: 350px;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container {
+    height: 12vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container {
+    height: 12vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container {
+    height: 20vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner {
+    height: 20vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container {
+    height: 10vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container {
+    height: 10vh;
+  }
+  .container-main-white .container-1 .footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .container-main-white .container-1 .footer .copyright-container {
+    width: 60vw;
+  }
+  .container-main-white .container-1 .footer .footer-logo {
+    width: 25vw;
+  }
+  .container-main-white .container-1 .footer .footer-logo .inner-footer-logo .footer-logo {
+    width: 85px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) and (orientation: portrait) {
+  .container-main-white .front-cover .first_layer .name {
+    width: 30vw;
+  }
+  .container-main-white .front-cover .first_layer .change-color {
+    width: 25vw;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-black {
+    height: 2.6vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-black .switcher {
+    height: 2vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-white {
+    height: 2.6vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-white .switcher {
+    height: 2vh;
+  }
+  .container-main-white .front-cover .second_layer .title-container .title {
+    letter-spacing: 1.5rem;
+    font-size: 4rem;
+    margin-left: 2.5vw;
+  }
+  .container-main-white .front-cover .third_layer .meter {
+    width: 65vw;
+  }
+  .container-main-white .front-cover .third_layer .links {
+    width: 30vw;
+  }
+  .container-main-white .front-cover .third_layer .links .logo-container .logo {
+    width: 70px;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container {
+    height: auto;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container {
+    height: 20vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-title {
+    height: 10vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-text {
+    height: 10vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-img-container {
+    height: 35vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-img-container .img-example {
+    height: 250px;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container {
+    height: 15vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container {
+    height: 15vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container {
+    height: 30vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner {
+    height: 30vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container {
+    height: 10vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container {
+    height: 20vh;
+  }
+  .container-main-white .container-1 .footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .container-main-white .container-1 .footer .copyright-container {
+    width: 50vw;
+  }
+  .container-main-white .container-1 .footer .copyright-container .copyright-text {
+    margin-left: 3vw;
+  }
+  .container-main-white .container-1 .footer .footer-logo {
+    width: 25vw;
+  }
+  .container-main-white .container-1 .footer .footer-logo .inner-footer-logo .footer-logo {
+    width: 85px;
+  }
+}
+
+@media only screen and (min-width: 421px) and (max-width: 767px) and (orientation: portrait) {
+  .container-main-white .front-cover .first_layer .name {
+    width: 45vw;
+  }
+  .container-main-white .front-cover .first_layer .name span {
+    font-size: 1.7rem;
+  }
+  .container-main-white .front-cover .first_layer .change-color {
+    width: 30vw;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-black {
+    width: 50px;
+    height: 3vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-black .switcher {
+    height: 2.5vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-white {
+    height: 3vh;
+    width: 50px;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-white .switcher {
+    height: 2.5vh;
+  }
+  .container-main-white .front-cover .second_layer .title-container .title {
+    letter-spacing: 0rem;
+    font-size: 3rem;
+    margin-left: 5.5vw;
+  }
+  .container-main-white .front-cover .third_layer .meter {
+    width: 55vw;
+  }
+  .container-main-white .front-cover .third_layer .links {
+    width: 40vw;
+  }
+  .container-main-white .front-cover .third_layer .links .logo-container .logo {
+    width: 50px;
+  }
+  .container-main-white .container-1 .css-tips-title .date-container .date {
+    margin-left: 15vw;
+    font-size: 1.2rem;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container {
+    height: 25vh;
+    width: 70vw;
+    margin-left: 15vw;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-title {
+    height: 10vh;
+    width: 70vw;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-title .problem-title-text {
+    font-size: 2rem;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-text {
+    height: 15vh;
+    width: 70vw;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-text .problem {
+    font-size: .8rem;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-img-container {
+    height: 30vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-img-container .img-example {
+    height: 170px;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container {
+    height: 15vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container {
+    height: 15vh;
+    width: 70vw;
+    margin-left: 15vw;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container .statement {
+    font-size: .8rem;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container {
+    height: 25vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner {
+    height: 25vh;
+    margin-left: 15vw;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container {
+    height: 10vh;
+    width: 70vw;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container .solution-title-text {
+    font-size: 2rem;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container {
+    width: 70vw;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container .solution-answer-text {
+    font-size: .8rem;
+  }
+  .container-main-white .container-1 .footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .container-main-white .container-1 .footer .copyright-container {
+    width: 50vw;
+  }
+  .container-main-white .container-1 .footer .copyright-container .copyright-text {
+    margin-left: 1vw;
+    font-size: .5rem;
+  }
+  .container-main-white .container-1 .footer .footer-logo {
+    width: 20vw;
+  }
+  .container-main-white .container-1 .footer .footer-logo .inner-footer-logo .footer-logo {
+    width: 40px;
+    font-size: 1.4rem;
+  }
+}
+
+@media only screen and (max-width: 420px) and (orientation: portrait) {
+  .container-main-white .front-cover .first_layer .name {
+    width: 45vw;
+  }
+  .container-main-white .front-cover .first_layer .name span {
+    font-size: 1.7rem;
+  }
+  .container-main-white .front-cover .first_layer .change-color {
+    width: 30vw;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-black {
+    width: 50px;
+    height: 2.5vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-black .switcher {
+    height: 2.5vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-white {
+    height: 2.5vh;
+    width: 50px;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-white .switcher {
+    height: 2.5vh;
+  }
+  .container-main-white .front-cover .second_layer .title-container .title {
+    letter-spacing: 0rem;
+    font-size: 1.5rem;
+    letter-spacing: 1rem;
+    margin-left: 1rem;
+  }
+  .container-main-white .front-cover .third_layer .meter {
+    width: 50vw;
+  }
+  .container-main-white .front-cover .third_layer .meter .acceptproject-text {
+    font-size: 1.1rem;
+  }
+  .container-main-white .front-cover .third_layer .links {
+    width: 45vw;
+  }
+  .container-main-white .front-cover .third_layer .links .logo-container {
+    width: 160px;
+  }
+  .container-main-white .front-cover .third_layer .links .logo-container .logo .fa-github {
+    font-size: 1.8rem;
+  }
+  .container-main-white .front-cover .third_layer .links .logo-container .logo .fa-facebook-f {
+    font-size: 1.8rem;
+  }
+  .container-main-white .front-cover .third_layer .links .logo-container .logo .fa-telegram-plane {
+    font-size: 1.8rem;
+  }
+  .container-main-white .container-1 .css-tips-title .date-container .date {
+    margin-left: 15vw;
+    font-size: 1.2rem;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container {
+    height: 25vh;
+    width: 70vw;
+    margin-left: 15vw;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-title {
+    height: 10vh;
+    width: 70vw;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-title .problem-title-text {
+    font-size: 2rem;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-text {
+    height: 15vh;
+    width: 70vw;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-text .problem {
+    font-size: .8rem;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-img-container {
+    height: 30vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-img-container .img-example {
+    height: 170px;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container {
+    height: 15vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container {
+    height: 15vh;
+    width: 70vw;
+    margin-left: 15vw;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container .statement {
+    font-size: .8rem;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container {
+    height: 25vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner {
+    height: 25vh;
+    margin-left: 15vw;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container {
+    height: 10vh;
+    width: 70vw;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container .solution-title-text {
+    font-size: 2rem;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container {
+    width: 70vw;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container .solution-answer-text {
+    font-size: .8rem;
+  }
+  .container-main-white .container-1 .footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .container-main-white .container-1 .footer .copyright-container {
+    width: 50vw;
+  }
+  .container-main-white .container-1 .footer .copyright-container .copyright-text {
+    margin-left: 1vw;
+    font-size: .5rem;
+  }
+  .container-main-white .container-1 .footer .footer-logo {
+    width: 20vw;
+  }
+  .container-main-white .container-1 .footer .footer-logo .inner-footer-logo .footer-logo {
+    width: 40px;
+    font-size: 1.4rem;
+  }
+}
+
+@media only screen and (max-width: 375px) and (orientation: portrait) {
+  .container-main-white .front-cover .first_layer .name {
+    width: 45vw;
+  }
+  .container-main-white .front-cover .first_layer .name span {
+    font-size: 1.5rem;
+  }
+  .container-main-white .front-cover .first_layer .change-color {
+    width: 30vw;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-black {
+    width: 50px;
+    height: 2.5vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-black .switcher {
+    height: 2.5vh;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-white {
+    height: 2.5vh;
+    width: 50px;
+  }
+  .container-main-white .front-cover .first_layer .change-color .switch-white .switcher {
+    height: 2.5vh;
+  }
+  .container-main-white .front-cover .second_layer .title-container .title {
+    letter-spacing: 0rem;
+    font-size: 1.5rem;
+    letter-spacing: 1rem;
+    margin-left: 1rem;
+  }
+  .container-main-white .front-cover .third_layer .meter {
+    width: 55vw;
+  }
+  .container-main-white .front-cover .third_layer .meter .acceptproject-text {
+    font-size: .9rem;
+  }
+  .container-main-white .front-cover .third_layer .links {
+    width: 40vw;
+  }
+  .container-main-white .front-cover .third_layer .links .logo-container {
+    width: 120px;
+  }
+  .container-main-white .front-cover .third_layer .links .logo-container .logo .fa-github {
+    font-size: 1.6rem;
+  }
+  .container-main-white .front-cover .third_layer .links .logo-container .logo .fa-facebook-f {
+    font-size: 1.6rem;
+  }
+  .container-main-white .front-cover .third_layer .links .logo-container .logo .fa-telegram-plane {
+    font-size: 1.6rem;
+  }
+  .container-main-white .container-1 .css-tips-title .date-container .date {
+    margin-left: 15vw;
+    font-size: 1.2rem;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container {
+    height: 25vh;
+    width: 70vw;
+    margin-left: 15vw;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-title {
+    height: 10vh;
+    width: 70vw;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-title .problem-title-text {
+    font-size: 2rem;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-text {
+    height: 15vh;
+    width: 70vw;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-container .problem-text-container .problem-text .problem {
+    font-size: .8rem;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-img-container {
+    height: 30vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-img-container .img-example {
+    height: 150px;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container {
+    height: 15vh;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container {
+    height: 15vh;
+    width: 70vw;
+    margin-left: 15vw;
+  }
+  .container-main-white .container-1 .css-tips-title .problem-statement-container .problem-statement-inner-container .statement {
+    font-size: .8rem;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container {
+    height: 25vh;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner {
+    height: 25vh;
+    margin-left: 15vw;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container {
+    height: 10vh;
+    width: 70vw;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-title-container .solution-title-text {
+    font-size: 2rem;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container {
+    width: 70vw;
+  }
+  .container-main-white .container-1 .css-tips-title .solution-container .solution-container-inner .solution-statement-container .solution-answer-text {
+    font-size: .8rem;
+  }
+  .container-main-white .container-1 .footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .container-main-white .container-1 .footer .copyright-container {
+    width: 50vw;
+  }
+  .container-main-white .container-1 .footer .copyright-container .copyright-text {
+    margin-left: 1vw;
+    font-size: .5rem;
+  }
+  .container-main-white .container-1 .footer .footer-logo {
+    width: 20vw;
+  }
+  .container-main-white .container-1 .footer .footer-logo .inner-footer-logo .footer-logo {
+    width: 40px;
+    font-size: 1.4rem;
+  }
+}
+/*# sourceMappingURL=csstips_mq.css.map */
